@@ -13,7 +13,7 @@ This project classifies customers into different segments based on their purchas
 ## Files
 
 1. customer_segmentation.py
-2. Customer.csv
+2. customers.csv
 3. segmented_customers.csv
 
 ## Customer Segments
